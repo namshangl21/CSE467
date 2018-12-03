@@ -1,3 +1,4 @@
+//Program to align corpus
 import java.io.*;
 public class NpScan {
     public static void main(String[] args) throws IOException{
